@@ -1,5 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to COBRA's documentation!
 ===================================
+
+COBRA ('CO'nvenient 'B'uilder 'RA'mses movie parameters) is a Python program which helps writing a namelist file including Ramses movie parameters. This page is under construction and will be updated actively soon.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
